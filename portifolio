@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifólio</title>
+</head>
+<body>
+    <main>
+        <h1>Portifólio</h1>
+    </main>
+    <div class="container-projetos">
+        <div class="projeto ativo">
+            
+        <img src="" alt="">
+        <h3>Portifólio 1</h3>
+        </div>
+
+        <div class="informacoes-projeto">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore itaque odio sapiente harum qui tenetur nihil delectus earum recusandae quod sequi aperiam aspernatur quasi eius fugiat facilis, fugit laboriosam vitae!</p>
+        </div>
+
+        <img src="" alt="">
+        <h3>Portifólio 2</h3>
+
+        <div class="informações do projeto">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut ex eos corrupti explicabo tempore in officiis itaque at obcaecati quos neque ipsam quasi aperiam doloremque dolorum debitis, expedita iste! Earum.</p>
+        </div>
+
+    </div>
+
+ <button
+ 
+ style="color: red;"
+ class="btn-mostrar-projetos">Mostrar Mais
+ 
+</button>
+ 
+</body>
+</html>
